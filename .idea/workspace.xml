@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97faf7a1-0a20-47b1-8005-4153859f1b56" name="Default Changelist" comment="" />
+    <list default="true" id="97faf7a1-0a20-47b1-8005-4153859f1b56" name="Default Changelist" comment="deleted files">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manny/img/breaktheinternet/buzzfeed-logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manny/img/breaktheinternet/it-crowd.jpg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +31,11 @@
     <expand />
     <select />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fFBAuV3B1sOeBSvyLQrsnKqE4S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,6 +43,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -65,7 +75,7 @@
       <workItem from="1595803821855" duration="2080000" />
       <workItem from="1596563997417" duration="591000" />
       <workItem from="1596930654914" duration="3347000" />
-      <workItem from="1596935244642" duration="3211000" />
+      <workItem from="1596935244642" duration="4025000" />
     </task>
     <servers />
   </component>
@@ -73,6 +83,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="311" y="58" width="800" height="677" key="#Notifications" timestamp="1596942728767">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="58" width="800" height="677" key="#Notifications/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1596942728767" />
+    <state x="281" y="27" width="860" height="741" key="CommitChangelistDialog2" timestamp="1596942385618">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="281" y="27" width="860" height="741" key="CommitChangelistDialog2/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1596942385618" />
     <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1596934021995">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -89,6 +107,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1596934021995" />
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1596942388820">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1596942388820" />
     <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1596935245551">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
