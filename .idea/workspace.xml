@@ -3,140 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="97faf7a1-0a20-47b1-8005-4153859f1b56" name="Default Changelist" comment="deleted files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/css/app.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/app.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Averta/avertastd-bold-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Averta/avertastd-bold-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Averta/avertastd-bold-webfont.eot?" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Averta/avertastd-bold-webfont.eot?" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Averta/avertastd-bold-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Averta/avertastd-bold-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Averta/avertastd-bold-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Averta/avertastd-bold-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Averta/avertastd-bold-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Averta/avertastd-bold-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Averta/avertastd-bold-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Averta/avertastd-bold-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Averta/avertastd-extrabold-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Averta/avertastd-extrabold-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Averta/avertastd-extrabold-webfont.eot?" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Averta/avertastd-extrabold-webfont.eot?" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Averta/avertastd-extrabold-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Averta/avertastd-extrabold-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Averta/avertastd-extrabold-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Averta/avertastd-extrabold-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Averta/avertastd-extrabold-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Averta/avertastd-extrabold-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Averta/avertastd-extrabold-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Averta/avertastd-extrabold-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Averta/avertastd-regular-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Averta/avertastd-regular-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Averta/avertastd-regular-webfont.eot?" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Averta/avertastd-regular-webfont.eot?" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Averta/avertastd-regular-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Averta/avertastd-regular-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Averta/avertastd-regular-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Averta/avertastd-regular-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Averta/avertastd-regular-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Averta/avertastd-regular-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Averta/avertastd-regular-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Averta/avertastd-regular-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Averta/avertastd-semibold-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Averta/avertastd-semibold-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Averta/avertastd-semibold-webfont.eot?" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Averta/avertastd-semibold-webfont.eot?" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Averta/avertastd-semibold-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Averta/avertastd-semibold-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Averta/avertastd-semibold-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Averta/avertastd-semibold-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Averta/avertastd-semibold-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Averta/avertastd-semibold-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Averta/avertastd-semibold-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Averta/avertastd-semibold-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Bebas/bebasneue_bold-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Bebas/bebasneue_bold-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Bebas/bebasneue_bold-webfont.eot?" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Bebas/bebasneue_bold-webfont.eot?" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Bebas/bebasneue_bold-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Bebas/bebasneue_bold-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Bebas/bebasneue_bold-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Bebas/bebasneue_bold-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Bebas/bebasneue_bold-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Bebas/bebasneue_bold-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Bebas/bebasneue_bold-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Bebas/bebasneue_bold-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Bebas/bebasneue_regular-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Bebas/bebasneue_regular-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Bebas/bebasneue_regular-webfont.eot?" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Bebas/bebasneue_regular-webfont.eot?" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Bebas/bebasneue_regular-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Bebas/bebasneue_regular-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Bebas/bebasneue_regular-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Bebas/bebasneue_regular-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Bebas/bebasneue_regular-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Bebas/bebasneue_regular-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Bebas/bebasneue_regular-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Bebas/bebasneue_regular-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Besom/besom-free-font-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Besom/besom-free-font-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Besom/besom-free-font-webfont.eot?" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Besom/besom-free-font-webfont.eot?" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Besom/besom-free-font-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Besom/besom-free-font-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Besom/besom-free-font-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Besom/besom-free-font-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Besom/besom-free-font-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Besom/besom-free-font-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Besom/besom-free-font-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Besom/besom-free-font-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Calluna/calluna-regular-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Calluna/calluna-regular-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Calluna/calluna-regular-webfont.eot?" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Calluna/calluna-regular-webfont.eot?" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Calluna/calluna-regular-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Calluna/calluna-regular-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Calluna/calluna-regular-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Calluna/calluna-regular-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Calluna/calluna-regular-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Calluna/calluna-regular-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Calluna/calluna-regular-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Calluna/calluna-regular-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/CooperHewitt/cooperhewitt-bold-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/CooperHewitt/cooperhewitt-bold-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/CooperHewitt/cooperhewitt-bold-webfont.eot?" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/CooperHewitt/cooperhewitt-bold-webfont.eot?" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/CooperHewitt/cooperhewitt-bold-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/CooperHewitt/cooperhewitt-bold-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/CooperHewitt/cooperhewitt-bold-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/CooperHewitt/cooperhewitt-bold-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/CooperHewitt/cooperhewitt-bold-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/CooperHewitt/cooperhewitt-bold-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/CooperHewitt/cooperhewitt-bold-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/CooperHewitt/cooperhewitt-bold-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/CooperHewitt/cooperhewitt-medium-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/CooperHewitt/cooperhewitt-medium-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/CooperHewitt/cooperhewitt-medium-webfont.eot?" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/CooperHewitt/cooperhewitt-medium-webfont.eot?" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/CooperHewitt/cooperhewitt-medium-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/CooperHewitt/cooperhewitt-medium-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/CooperHewitt/cooperhewitt-medium-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/CooperHewitt/cooperhewitt-medium-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/CooperHewitt/cooperhewitt-medium-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/CooperHewitt/cooperhewitt-medium-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/CooperHewitt/cooperhewitt-medium-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/CooperHewitt/cooperhewitt-medium-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/FreightSans/freightsans-bold-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FreightSans/freightsans-bold-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/FreightSans/freightsans-bold-webfont.eot?" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FreightSans/freightsans-bold-webfont.eot?" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/FreightSans/freightsans-bold-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FreightSans/freightsans-bold-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/FreightSans/freightsans-bold-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FreightSans/freightsans-bold-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/FreightSans/freightsans-bold-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FreightSans/freightsans-bold-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/FreightSans/freightsans-bold-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FreightSans/freightsans-bold-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/FreightSans/freightsans_black-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FreightSans/freightsans_black-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/FreightSans/freightsans_black-webfont.eot?" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FreightSans/freightsans_black-webfont.eot?" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/FreightSans/freightsans_black-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FreightSans/freightsans_black-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/FreightSans/freightsans_black-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FreightSans/freightsans_black-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/FreightSans/freightsans_black-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FreightSans/freightsans_black-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/FreightSans/freightsans_black-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FreightSans/freightsans_black-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/FreightSans/freightsans_book-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FreightSans/freightsans_book-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/FreightSans/freightsans_book-webfont.eot?" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FreightSans/freightsans_book-webfont.eot?" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/FreightSans/freightsans_book-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FreightSans/freightsans_book-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/FreightSans/freightsans_book-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FreightSans/freightsans_book-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/FreightSans/freightsans_book-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FreightSans/freightsans_book-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/FreightSans/freightsans_book-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FreightSans/freightsans_book-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/FreightSans/freightsans_medium-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FreightSans/freightsans_medium-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/FreightSans/freightsans_medium-webfont.eot?" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FreightSans/freightsans_medium-webfont.eot?" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/FreightSans/freightsans_medium-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FreightSans/freightsans_medium-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/FreightSans/freightsans_medium-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FreightSans/freightsans_medium-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/FreightSans/freightsans_medium-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FreightSans/freightsans_medium-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/FreightSans/freightsans_medium-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/FreightSans/freightsans_medium-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/HKGrotesk/hkgrotesk-bold-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk/hkgrotesk-bold-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/HKGrotesk/hkgrotesk-bold-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk/hkgrotesk-bold-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/HKGrotesk/hkgrotesk-medium-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk/hkgrotesk-medium-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/HKGrotesk/hkgrotesk-medium-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk/hkgrotesk-medium-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/HKGrotesk/hkgrotesk-regular-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk/hkgrotesk-regular-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/HKGrotesk/hkgrotesk-regular-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/HKGrotesk/hkgrotesk-regular-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Icons/icomoon.eot?9qsyrk" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Icons/icomoon.eot?9qsyrk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Icons/icomoon.svg?9qsyrk" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Icons/icomoon.svg?9qsyrk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Icons/icomoon.ttf?9qsyrk" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Icons/icomoon.ttf?9qsyrk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/Icons/icomoon.woff?9qsyrk" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Icons/icomoon.woff?9qsyrk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/NimbusMono/nimbusmono-bold-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/NimbusMono/nimbusmono-bold-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/NimbusMono/nimbusmono-bold-webfont.eot?" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/NimbusMono/nimbusmono-bold-webfont.eot?" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/NimbusMono/nimbusmono-bold-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/NimbusMono/nimbusmono-bold-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/NimbusMono/nimbusmono-bold-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/NimbusMono/nimbusmono-bold-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/NimbusMono/nimbusmono-bold-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/NimbusMono/nimbusmono-bold-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/NimbusMono/nimbusmono-bold-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/NimbusMono/nimbusmono-bold-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/NimbusMono/nimbusmono-regular-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/NimbusMono/nimbusmono-regular-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/NimbusMono/nimbusmono-regular-webfont.eot?" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/NimbusMono/nimbusmono-regular-webfont.eot?" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/NimbusMono/nimbusmono-regular-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/NimbusMono/nimbusmono-regular-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/NimbusMono/nimbusmono-regular-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/NimbusMono/nimbusmono-regular-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/NimbusMono/nimbusmono-regular-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/NimbusMono/nimbusmono-regular-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/NimbusMono/nimbusmono-regular-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/NimbusMono/nimbusmono-regular-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/WorkSans/worksans-bold-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/WorkSans/worksans-bold-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/WorkSans/worksans-bold-webfont.eot?" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/WorkSans/worksans-bold-webfont.eot?" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/WorkSans/worksans-bold-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/WorkSans/worksans-bold-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/WorkSans/worksans-bold-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/WorkSans/worksans-bold-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/WorkSans/worksans-bold-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/WorkSans/worksans-bold-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/WorkSans/worksans-bold-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/WorkSans/worksans-bold-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/WorkSans/worksans-extrabold-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/WorkSans/worksans-extrabold-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/WorkSans/worksans-extrabold-webfont.eot?" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/WorkSans/worksans-extrabold-webfont.eot?" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/WorkSans/worksans-extrabold-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/WorkSans/worksans-extrabold-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/WorkSans/worksans-extrabold-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/WorkSans/worksans-extrabold-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/WorkSans/worksans-extrabold-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/WorkSans/worksans-extrabold-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/WorkSans/worksans-extrabold-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/WorkSans/worksans-extrabold-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/WorkSans/worksans-medium-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/WorkSans/worksans-medium-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/WorkSans/worksans-medium-webfont.eot?" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/WorkSans/worksans-medium-webfont.eot?" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/WorkSans/worksans-medium-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/WorkSans/worksans-medium-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/WorkSans/worksans-medium-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/WorkSans/worksans-medium-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/WorkSans/worksans-medium-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/WorkSans/worksans-medium-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/fonts/WorkSans/worksans-medium-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/WorkSans/worksans-medium-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/img/100happydays/july-31.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/100happydays/july-31.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/img/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon-32x32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/img/icons-s803cfac0c6.png.html" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons-s803cfac0c6.png.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/img/icons-s803cfac0c6.png.orig" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons-s803cfac0c6.png.orig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/img/icons2x-sd27566212d.png.html" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons2x-sd27566212d.png.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/img/icons2x-sd27566212d.png.orig" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons2x-sd27566212d.png.orig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/js/app.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manny/js/vendor.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/vendor.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,6 +50,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="scratch.es6" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" working-dir="$PROJECT_DIR$">
       <method v="2" />
@@ -208,6 +80,7 @@
       <workItem from="1596930654914" duration="3347000" />
       <workItem from="1596935244642" duration="4025000" />
       <workItem from="1596980870421" duration="219000" />
+      <workItem from="1597001726209" duration="274000" />
     </task>
     <servers />
   </component>
@@ -219,10 +92,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="311" y="58" width="800" height="677" key="#Notifications/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1596942728767" />
-    <state x="281" y="27" width="860" height="741" key="CommitChangelistDialog2" timestamp="1596942851053">
+    <state x="281" y="27" width="860" height="741" key="CommitChangelistDialog2" timestamp="1596981188474">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="281" y="27" width="860" height="741" key="CommitChangelistDialog2/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1596942851053" />
+    <state x="281" y="27" width="860" height="741" key="CommitChangelistDialog2/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1596981188474" />
     <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1596934021995">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -239,15 +112,16 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1596934021995" />
-    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1596942856180">
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1597001998383">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1596942856180" />
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1596980891428">
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1596981194218" />
+    <state x="311" y="132" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1597001998383" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1597001727379">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1596980891428" />
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1596563999299" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1597001727379" />
     <state x="362" y="127" width="709" height="538" key="find.popup" timestamp="1596936864675">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
