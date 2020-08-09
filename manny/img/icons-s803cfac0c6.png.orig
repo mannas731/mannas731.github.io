@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta name="description" content="The story behind # -  Behind The Hashtag uncovers the story behind 10 hashtags featured in the upcoming art exhibition, Hashtags Unplugged in New York.">
+<meta name="keywords" content="story, history, art exhibition, gallery show, art, hashtags, social media, gallery, exhibition, new york, bourn, kim goulbourne">
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+<link rel="canonical" href="http://series.hashtagsunplugged.com/" /> 
+
+<meta property="og:title" content="Behind The Hashtag: #" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="The story behind # -  Behind The Hashtag uncovers the story behind 10 hashtags featured in the upcoming art exhibition, Hashtags Unplugged in New York." />
+<meta property="og:url" content="http://series.hashtagsunplugged.com/" />
+<meta property="og:image" content="http://series.hashtagsunplugged.com/img//social.jpg" />
+<meta property="og:site_name" content="Hashtags Unplugged" />
+<meta property="fb:admins" content="508343267" />
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Behind The Hashtag: #">
+<meta name="twitter:site" content="@bybourn">
+<meta name="twitter:domain" content="series.hashtagsunplugged.com/">
+<meta name="twitter:image:src" content="http://series.hashtagsunplugged.com/img//social.jpg">
+<meta name="twitter:creator" content="@bybourn">
+
+<link rel="icon" href="/favicon.ico" type="image/ico">
+<link type="text/css" rel="stylesheet" href="/css/app.min.css">
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script type="text/javascript" src="/js/vendor/jquery-1.11.2.min.js" ><\/script>')</script>
+
+<script src="/js/vendor.min.js"></script>
+
+<title>Behind The Hashtag: </title>
+
+<!-- GA -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-70676360-9', 'auto');
+  ga('send', 'pageview');
+</script>
+  <script type="text/javascript">
+    window.location = "/lovewins";
+  </script>
+</head>
+
+<body data-page="landing">
+
+<header>
+  <div class="left">
+    <div class="hamburger" onclick="ga('send', 'event', 'Header', 'click', 'Hamburger');">
+      <span class="top"></span><span class="mid"></span><span class="btm"></span>
+    </div>
+    <div class="bth-text">
+      <a href="/" onclick="ga('send', 'event', 'Header', 'click', 'Home');">Behind The Hashtag</a>
+    </div>
+    <div class="social">
+      <a href="https://twitter.com/bybourn" target="_blank" onclick="ga('send', 'event', 'Header', 'click', 'Twitter');"><span class="icon-twitter"></span></a>
+    </div>
+  </div>
+
+  <div class="right">
+    <div class="inner-wrapper">
+      <div class="content-wrapper">
+        <div class="row about">
+          <h4 class="fboldup">About The Series</h4>
+          <p>Behind The Hashtag uncovers the story behind 10 hashtags featured in the upcoming art exhibition, Hashtags Unplugged in New York. <a href="http://hashtagsunplugged.com/tickets" target="_blank">Get Tickets here</a>.</p>
+        </div>
+        <div class="row subscribe">
+          <div id="mc_embed_signup" class="subscribe-form">
+  <form action="///madebybourn.us7.list-manage.com/subscribe/post?u=1b74d38c8380f562118a12b0b&amp;id=b7a9d54fe3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+                  
+      <div class="mc-field-group">
+        <div class="input-wrapper">
+          <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email" autocomplete="off">
+        </div>
+        <div class="btn-wrapper">
+          <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="fboldup">
+        </div>
+      </div>
+      <div id="mce-responses" class="clear">
+        <div class="response" id="mce-error-response" style="display:none"></div>
+        <div class="response" id="mce-success-response" style="display:none"></div>
+      </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_1b74d38c8380f562118a12b0b_b7a9d54fe3" tabindex="-1" value=""></div>
+    </div>
+  </form>
+</div>        </div>
+        <div class="row main-nav">
+          <a href="/thedress" class="hashtag clearfix">
+            <div class="hashtag-name">
+              <h5 class="fboldup">March 22, 2016</h5>
+              <h3>#TheDress</h3>
+            </div>
+            <div class="hashtag-desc">
+              <p>Controversy around the dress that appeared to be either white and gold or black and blue.</p>
+            </div>
+          </a>
+          <a href="/whyistayed" class="hashtag clearfix">
+            <div class="hashtag-name">
+              <h5 class="fboldup">March 29, 2016</h5>
+              <h3>#WhyIStayed</h3>
+            </div>
+            <div class="hashtag-desc">
+              <p>Unveils some of the complexities around domestic violence.</p>
+            </div>
+          </a>
+          <a href="/100happydays" class="hashtag clearfix">
+            <div class="hashtag-name">
+              <h5 class="fboldup">April 5, 2016</h5>
+              <h3>#100HappyDays</h3>
+            </div>
+            <div class="hashtag-desc">
+              <p>For 100 days people challenge themselves to post tweets or images when they’re happy.</p>
+            </div>
+          </a>
+          <a href="/notonemore" class="hashtag clearfix">
+            <div class="hashtag-name">
+              <h5 class="fboldup">April 12, 2016</h5>
+              <h3>#NotOneMore</h3>
+            </div>
+            <div class="hashtag-desc">
+              <p>Movement against gun violence dedicated to peace, justice, and human rights for all.</p>
+            </div>
+          </a>
+          <a href="/breaktheinternet" class="hashtag clearfix">
+            <div class="hashtag-name">
+              <h5 class="fboldup">April 19, 2016</h5>
+              <h3>#BreakTheInternet</h3>
+            </div>
+            <div class="hashtag-desc">
+              <p>Kim Kardashian’s naked photoshoot on the cover of Paper magazine.</p>
+            </div>
+          </a>
+          <a href="/ilooklikeanengineer" class="hashtag clearfix">
+            <div class="hashtag-name">
+              <h5 class="fboldup">April 26, 2016</h5>
+              <h3>#iLookLikeAnEngineer</h3>
+            </div>
+            <div class="hashtag-desc">
+              <p>Aims to spread awareness about diversity in Tech.</p>
+            </div>
+          </a>
+          <a href="/plutoflyby" class="hashtag clearfix">
+            <div class="hashtag-name">
+              <h5 class="fboldup">May 3, 2016</h5>
+              <h3>#PlutoFlyBy</h3>
+            </div>
+            <div class="hashtag-desc">
+              <p>NASA lifted the veil on planet Pluto and shared breathtaking photos.</p>
+            </div>
+          </a>
+          <a href="/blacklivesmatter" class="hashtag clearfix">
+            <div class="hashtag-name">
+              <h5 class="fboldup">May 9, 2016</h5>
+              <h3>#BlackLivesMatter</h3>
+            </div>
+            <div class="hashtag-desc">
+              <p>An activist movement that campaigns against violence toward black people.</p>
+            </div>
+          </a>
+          <a href="/lovewins" class="hashtag clearfix">
+            <div class="hashtag-name">
+              <h5 class="fboldup">May 11, 2016</h5>
+              <h3>#LovesWins</h3>
+            </div>
+            <div class="hashtag-desc">
+              <p>The Supreme Court’s ruling on marriage equality that overturned bans on same-sex marriage.</p>
+            </div>
+          </a>
+        </div>
+        <div class="row credit">
+          <h5><a href="http://bybourn.com" class="fboldup" onclick="ga('send', 'event', 'Header', 'click', 'Produced By Bourn');">Produced By Bourn</a></h5>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+<section id="page" class="landing">
+  <h1 style="display:none;">Hashtags Unplugged</h1>
+</body>
+</html>
