@@ -31,6 +31,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1fFBAuV3B1sOeBSvyLQrsnKqE4S" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -81,6 +82,8 @@
       <workItem from="1596935244642" duration="4025000" />
       <workItem from="1596980870421" duration="219000" />
       <workItem from="1597001726209" duration="274000" />
+      <workItem from="1597332197688" duration="280000" />
+      <workItem from="1597342735358" duration="633000" />
     </task>
     <servers />
   </component>
@@ -92,10 +95,11 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="311" y="58" width="800" height="677" key="#Notifications/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1596942728767" />
-    <state x="281" y="27" width="860" height="741" key="CommitChangelistDialog2" timestamp="1596981188474">
+    <state x="281" y="27" width="860" height="741" key="CommitChangelistDialog2" timestamp="1597002017400">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="281" y="27" width="860" height="741" key="CommitChangelistDialog2/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1596981188474" />
+    <state x="281" y="27" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1597002017400" />
     <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1596934021995">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -112,16 +116,20 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1596934021995" />
-    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1597001998383">
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1597343367603">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1596981194218" />
-    <state x="311" y="132" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1597001998383" />
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1597001727379">
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1597343367603" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1597332272242">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1596980891428" />
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1597001727379" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1597332272242" />
+    <state x="484" y="316" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597332276582">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="484" y="316" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1299.741@67.27.1299.741" timestamp="1597332276582" />
     <state x="362" y="127" width="709" height="538" key="find.popup" timestamp="1596936864675">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
