@@ -91,7 +91,7 @@
       <workItem from="1597344251474" duration="954000" />
       <workItem from="1597371546010" duration="396000" />
       <workItem from="1597525609550" duration="601000" />
-      <workItem from="1598654022706" duration="722000" />
+      <workItem from="1598654022706" duration="1090000" />
     </task>
     <task id="LOCAL-00001" summary="added crown and changed text for desc of self-care">
       <created>1597371780737</created>
@@ -100,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597371780737</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first day of schooool">
+      <created>1598654912588</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598654912589</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,18 +115,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added crown and changed text for desc of self-care" />
-    <option name="LAST_COMMIT_MESSAGE" value="added crown and changed text for desc of self-care" />
+    <MESSAGE value="first day of schooool" />
+    <option name="LAST_COMMIT_MESSAGE" value="first day of schooool" />
   </component>
   <component name="WindowStateProjectService">
     <state x="311" y="58" width="800" height="677" key="#Notifications" timestamp="1596942728767">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="311" y="58" width="800" height="677" key="#Notifications/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1596942728767" />
-    <state x="281" y="27" width="860" height="741" key="CommitChangelistDialog2" timestamp="1597371780481">
+    <state x="281" y="27" width="860" height="741" key="CommitChangelistDialog2" timestamp="1598654912439">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="281" y="27" width="860" height="741" key="CommitChangelistDialog2/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1596981188474" />
-    <state x="281" y="27" width="860" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1597371780481" />
+    <state x="281" y="27" width="860" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1598654912439" />
     <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1596934021995">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -136,11 +144,11 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1596934021995" />
-    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1597371941289">
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1598654918234">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1596981194218" />
-    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1597371941289" />
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1598654918234" />
     <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1597526351410">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
