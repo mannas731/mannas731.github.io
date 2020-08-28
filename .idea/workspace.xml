@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97faf7a1-0a20-47b1-8005-4153859f1b56" name="Default Changelist" comment="deleted files">
+    <list default="true" id="97faf7a1-0a20-47b1-8005-4153859f1b56" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,22 +89,37 @@
       <workItem from="1597332197688" duration="280000" />
       <workItem from="1597342735358" duration="633000" />
       <workItem from="1597344251474" duration="954000" />
+      <workItem from="1597371546010" duration="396000" />
+      <workItem from="1597525609550" duration="601000" />
+      <workItem from="1598654022706" duration="722000" />
     </task>
+    <task id="LOCAL-00001" summary="added crown and changed text for desc of self-care">
+      <created>1597371780737</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597371780737</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added crown and changed text for desc of self-care" />
+    <option name="LAST_COMMIT_MESSAGE" value="added crown and changed text for desc of self-care" />
   </component>
   <component name="WindowStateProjectService">
     <state x="311" y="58" width="800" height="677" key="#Notifications" timestamp="1596942728767">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="311" y="58" width="800" height="677" key="#Notifications/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1596942728767" />
-    <state x="281" y="27" width="860" height="741" key="CommitChangelistDialog2" timestamp="1597343411922">
+    <state x="281" y="27" width="860" height="741" key="CommitChangelistDialog2" timestamp="1597371780481">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="281" y="27" width="860" height="741" key="CommitChangelistDialog2/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1596981188474" />
-    <state x="281" y="27" width="860" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1597343411922" />
+    <state x="281" y="27" width="860" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1597371780481" />
     <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1596934021995">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -120,20 +136,20 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1596934021995" />
-    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1597343417144">
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1597371941289">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1596981194218" />
-    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1597343417144" />
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1597344596498">
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1597371941289" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1597526351410">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1596980891428" />
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1597344596498" />
-    <state x="484" y="316" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597371740216">
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1597526351410" />
+    <state x="484" y="316" width="464" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598654027861">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="484" y="316" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1299.741@67.27.1299.741" timestamp="1597371740216" />
+    <state x="484" y="316" width="464" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1299.741@67.27.1299.741" timestamp="1598654027861" />
     <state x="362" y="127" width="709" height="538" key="find.popup" timestamp="1596936864675">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
